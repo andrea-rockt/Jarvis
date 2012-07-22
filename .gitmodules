@@ -1,0 +1,9 @@
+[submodule "Jarvis.Client"]
+	path = Jarvis.Client
+	url = git@github.com:andrea-rockt/Jarvis.Client.git
+[submodule "Jarvis.Service"]
+	path = Jarvis.Service
+	url = git@github.com:andrea-rockt/Jarvis.Service.git
+[submodule "ManagedWifi"]
+	path = ManagedWifi
+	url = git@github.com:andrea-rockt/ManagedWifi.git
