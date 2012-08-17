@@ -7,3 +7,6 @@
 [submodule "ManagedWifi"]
 	path = ManagedWifi
 	url = git@github.com:andrea-rockt/ManagedWifi.git
+[submodule "Jarvis.WCF"]
+	path = Jarvis.WCF
+	url = git@github.com:andrea-rockt/Jarvis.WCF.git
